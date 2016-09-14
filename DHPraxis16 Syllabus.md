@@ -8,29 +8,24 @@ CUNY Graduate Center <br />
 Wednesdays 4:15 pm – 6:15 pm – Room 6496 <br />
 
 
-**Dr. Stephen Brier**
-
-sbrier@gc.cuny.edu
-
-http://commons.gc.cuny.edu/members/sbrier
-
-@stevebrier
+*Dr. Stephen Brier*<br />
+sbrier@gc.cuny.edu<br />
+http://commons.gc.cuny.edu/members/sbrier<br />
+@stevebrier<br />
 
 
 
-**Dr. Lisa Rhody**
-
-lrhody@gc.cuny.edu
-
-http://lisarhody.com
-
-@lmrhody * Office Hours: Room 3300.07 W 3-4 PM and by appointment
+**Dr. Lisa Rhody**<br />
+lrhody@gc.cuny.edu<br />
+http://lisarhody.com<br />
+@lmrhody <br />
+Office Hours: Room 3300.07 W 3-4 PM and by appointment<br />
 
 
 
-Course Group: (https://commons.gc.cuny.edu/groups/digital-praxis-seminar-2016-2017/)
+Course Group: https://commons.gc.cuny.edu/groups/digital-praxis-seminar-2016-2017/ <br />
 
-Course Blog: (http://dhpraxisfall16.commons.gc.cuny.edu/)
+Course Blog: http://dhpraxisfall16.commons.gc.cuny.edu/ <br />
 
 Course Hashtag: #dhpraxis16
 
@@ -186,7 +181,7 @@ Minneapolis, MN: University of Minnesota Press, 2016. (This book is also availab
 
 Gold, Matthew K., Ed. Debates in the Digital Humanities. Minneapolis, MN: University of Minnesota Press, 2012. (This book is also available for free online at
 
-(http://dhdebates.gc.cuny.edu.)
+http://dhdebates.gc.cuny.edu.
 
 
 
@@ -488,7 +483,7 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * Watch: “Future of the Library Panel Discussion with David Adjaye” https://youtu.be/5MvRaTjCvPo
 
-* Projects to explore:*
+*Projects to explore:*
 
 * Digital Public Library of America: https://dp.la/
 
