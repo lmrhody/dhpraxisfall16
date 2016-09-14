@@ -8,7 +8,7 @@ CUNY Graduate Center <br />
 Wednesdays 4:15 pm – 6:15 pm – Room 6496 <br />
 
 
-*Dr. Stephen Brier*<br />
+**Dr. Stephen Brier**<br />
 sbrier@gc.cuny.edu<br />
 http://commons.gc.cuny.edu/members/sbrier<br />
 @stevebrier<br />
