@@ -8,21 +8,21 @@ CUNY Graduate Center <br />
 Wednesdays 4:15 pm – 6:15 pm – Room 6496 <br />
 
 
-**Dr. Stephen Brier 
+**Dr. Stephen Brier**
 
 sbrier@gc.cuny.edu
 
-(http://commons.gc.cuny.edu/members/sbrier)
+http://commons.gc.cuny.edu/members/sbrier
 
 @stevebrier
 
 
 
-Dr. Lisa Rhody
+**Dr. Lisa Rhody**
 
 lrhody@gc.cuny.edu
 
-(http://lisarhody.com)
+http://lisarhody.com
 
 @lmrhody * Office Hours: Room 3300.07 W 3-4 PM and by appointment
 
@@ -339,9 +339,7 @@ http://digitalthoreau.org/
 
 * WEB DuBois: http://www.webdubois.org/index.html
 
-* Digital Shomburg African American Women Writers of the 19th Century:
-
-* http://digital.nypl.org/schomburg/writers_aa19/
+* Digital Shomburg African American Women Writers of the 19th Century: http://digital.nypl.org/schomburg/writers_aa19/
 
 * The Walt Whitman Archive: http://www.whitmanarchive.org/
 
