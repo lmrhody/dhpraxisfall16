@@ -230,7 +230,7 @@ Overview of the course, objectives, projects, and GC resources for the class Sep
 
 * Brier, Stephen, “Confessions of a Premature Digital Humanist” (draft in PDF) 
 
-*Projects to explore:*
+**Projects to explore:**
 
 * Miriam Posner’s “How Did They Make That” Gallery of Primary Sources:
 
@@ -318,7 +318,7 @@ http://www2.iath.virginia.edu/public/jjm2f/rationale.html (but probably best rea
 * Review: Melissa Terras, “For Ada Lovelace Day – Father Busa’s Female Punch Card Operatives" (from week Sept 7th readings)
 
 
-*Projects to explore:*
+**Projects to explore:**
 
 * Miriam Posner’s How Did They Make That: Scholarly Editions:
 
@@ -370,7 +370,7 @@ http://digitalthoreau.org/
 
 
 
-*Projects to explore:*
+**Projects to explore:**
 
 Miriam Posner’s “How Did They Make That” Computer-Aided Text Analysis: Topic Modeling Martha Ballard’s Diary: http://miriamposner.com/blog/how-did-they-make-that/#text
 
@@ -422,7 +422,7 @@ https://annieswafford.wordpress.com/2015/03/30/why-syuzhet-doesnt-work-and-how-w
 
 **discussion of your final projects**
 
-*Projects and sites to review:*
+**Projects and sites to review:**
 
 * Maker Lab in the Humanities: http://maker.uvic.ca/
 
@@ -447,7 +447,7 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * May Yuan, "Mapping Text" (PDF)
 
-* Projects to Review:*
+**Projects to Review:**
 
 * Miriam Posner’s “How Did They Make That: A Mapping Project”
 
@@ -483,7 +483,7 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * Watch: “Future of the Library Panel Discussion with David Adjaye” https://youtu.be/5MvRaTjCvPo
 
-*Projects to explore:*
+**Projects to explore:**
 
 * Digital Public Library of America: https://dp.la/
 
@@ -506,7 +506,7 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * Lev Manovich, Trending: The Promises and the Challenges of Big Social Data "How to Compare One Million Images” ; "Media Visualization: Visual Techniques for Exploring Large Media Collections”; "What is Visualization?”
 
-*Projects to explore:*
+**Projects to explore:**
 
 * "On Broadway," http://www.on-broadway.nyc/
 
