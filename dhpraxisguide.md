@@ -1,8 +1,8 @@
 #DH PRAXIS 16
 ##Praxis Point Guide
-by Jojo Karlin
-DH Praxis Alumna
-CUNY Digital Fellow
+by Jojo Karlin <br />
+DH Praxis Alumna <br />
+CUNY Digital Fellow <br />
 
 ###Ways to Explore
 
@@ -110,6 +110,33 @@ lynda.com
 
 
 ###WHO TO FOLLOW
+####
+@proghist
+@el
+Ted Underwood
+MKP
+Tessie
+Amanda Visconti
+Bethany Noviskie
+Chris Bourg @chrisbourg
+William T
+Mark Sample
+Jonathan Goodwin @joncgoodwin
+Micki Kaufman @
+Kathleen Fitzpatrick @kfitz
+Dan Cohen @dancohen
+
+Datavis
+@manovich
+@
+
+
+Digital Pedagogy
+Bethany Nowviskie @nowviskie
+Maura Smale @mauraweb
+Audrey Watters @audreywatters
+Jesse Stommel @jessifer
+
 ###Listserv List
 
 ####TEI
@@ -118,7 +145,14 @@ https://listserv.brown.edu/archives/cgi-bin/wa?SUBED1=TEI-L&A=1
 http://datasociety.us7.list-manage.com/subscribe/post?u=00b33d1beca407762446037f0&id=563299c3ca
 ####AIR-L (Association of Internet Researchers)
 https://docs.google.com/forms/d/e/1FAIpQLScAQK4pzrly6iJegkk90q_HsSk1p5kNiDs3BmLt3Mm5cdX6vA/viewform?formkey=dEp3ZndjWFdwRmJBQ0VraWdMdmd6OGc6MQ#gid=0
-####
+####MIT HyperStudio
+http://mit.us1.list-manage2.com/subscribe/post?u=441802f75b344eb94cf268ec5&id=559c37a917
+
+####RSS Feeds
+DHandLib
+ProfHacker
+
+####Zotero Groups
 
 ###So you want to make a map?
 
@@ -130,5 +164,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScAQK4pzrly6iJegkk90q_HsSk1p5kNiDs3BmLt
 ###DATA SOURCES
 ####APIs
 ####Respositories
+
+https://dhs.stanford.edu/spatial-humanities/digital-humanities-as-xkcd-community-map/
 
 
