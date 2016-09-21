@@ -434,7 +434,7 @@ https://annieswafford.wordpress.com/2015/03/30/why-syuzhet-doesnt-work-and-how-w
 
 * Maker Faire NYC: http://makerfaire.com/new-york/ [Note: the World Maker Faire takes place from October 1-2, 2016 at the New York Hall of Science 47-01 111th St, Corona, NY 11368.]
 
-* October 26— Geospatial Humanities – (Michelle McSweeney)*
+**October 26— Geospatial Humanities – (Michelle McSweeney)**
  
 * Todd Presner, et. al. selections from HyperCities: Thick Mapping in the Digital Humanities. Cambridge, Mass.: Harvard University Press, 2014. (PDF)
 
@@ -457,7 +457,9 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * Simon Mahony and Elena Pierazzo, "Teaching Skills or Teaching Methodology?”
 
-* Using Metadata and Maps to Teach the History of Religion by Lincoln Mullen http://lincolnmullen.com/downloads/pdf/mullen.using-metadata-and-maps.preprint.pdf November 2— (Kathleen Fitzpatrick)
+* Using Metadata and Maps to Teach the History of Religion by Lincoln Mullen http://lincolnmullen.com/downloads/pdf/mullen.using-metadata-and-maps.preprint.pdf 
+
+**November 2— (Kathleen Fitzpatrick)**
 
 * The Future of Digital Scholarship and Scholarly CommunicationKathleen Fitzpatrick, Planned Obsolescence
 
