@@ -457,7 +457,9 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * Simon Mahony and Elena Pierazzo, "Teaching Skills or Teaching Methodology?”
 
-* Using Metadata and Maps to Teach the History of Religion by Lincoln Mullen http://lincolnmullen.com/downloads/pdf/mullen.using-metadata-and-maps.preprint.pdf November 2— (Kathleen Fitzpatrick)
+* Using Metadata and Maps to Teach the History of Religion by Lincoln Mullen http://lincolnmullen.com/downloads/pdf/mullen.using-metadata-and-maps.preprint.pdf 
+
+**November 2— (Kathleen Fitzpatrick)**
 
 * The Future of Digital Scholarship and Scholarly CommunicationKathleen Fitzpatrick, Planned Obsolescence
 
