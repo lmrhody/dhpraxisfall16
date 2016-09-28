@@ -303,7 +303,7 @@ pdf
 
 * Jerome McGann, “The Rationale of Hypertext,” 1995. Available online at: http://www2.iath.virginia.edu/public/jjm2f/rationale.html (but probably best read in its Sutherland Electronic Text version, 1997, available as a .pdf on the Group site) 
 
-*Shillingsburg, Peter. “From Physical to Digital Textuality: Loss and Gain in Literary Projects.” CEA Critic July 2014, Vol. 76 Issue 2, p 158-168 https://muse-jhu-edu.ezproxy.gc.cuny.edu/article/550520/pdf
+* Shillingsburg, Peter. “From Physical to Digital Textuality: Loss and Gain in Literary Projects.” CEA Critic July 2014, Vol. 76 Issue 2, p 158-168 https://muse-jhu-edu.ezproxy.gc.cuny.edu/article/550520/pdf
 
 * Susan Schreibman, “Digital Scholarly Editing.” Literary Studies in the Digital Age: https://dlsanthology.commons.mla.org/digital-scholarly-editing/
 
