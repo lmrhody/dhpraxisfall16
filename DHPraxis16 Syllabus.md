@@ -194,7 +194,7 @@ Readings marked (PDF) will be made available via the Files section of our Academ
 
 
 
-**August 31 – Introductions**
+###August 31 – Introductions
 
 *Visitors: Stephen Zweibel, GC Digital Fellows*
 
@@ -218,7 +218,7 @@ Overview of the course, objectives, projects, and GC resources for the class Sep
 
 * Johnson, Steven. “Preface: Electric Speed” and “Bitmapping: An Introduction.” Interface Culture. New York: Harper Collins, 1997. 1-40. (PDF)
 
-**September 14—Digital History**
+###September 14—Digital History
 
 * Cohen, Dan and Roy Rosenzweig. “Promises and Perils of Digital History.” Digital History: A Guide to Gathering, Preserving, and Presenting the Pas t. Introduction. http://chnm.gmu.edu/digitalhistory/introduction/
 
@@ -232,11 +232,7 @@ Overview of the course, objectives, projects, and GC resources for the class Sep
 
 **Projects to explore:**
 
-* Miriam Posner’s “How Did They Make That” Gallery of Primary Sources:
-
-http://miriamposner.com/blog/how-did-they-make-that/#gallery
-
-“Lynching, Visualization, and Visibility.”
+* Miriam Posner’s “How Did They Make That” Gallery of Primary Sources: http://miriamposner.com/blog/how-did-they-make-that/#gallery “Lynching, Visualization, and Visibility.”
 
 * CUNY Digital History Archive: http://cdha.cuny.edu/
 
@@ -250,13 +246,11 @@ http://miriamposner.com/blog/how-did-they-make-that/#gallery
 
 * Roaring ‘Twenties: http://vectors.usc.edu/projects/index.php?project=98
 
-* Women Who Rock: Making Scenes, Building Communities:
-
-* http://content.lib.washington.edu/wwrweb/index.html
+* Women Who Rock: Making Scenes, Building Communities: http://content.lib.washington.edu/wwrweb/index.html
 
 * Lauren Klein and Jacob Eisenstein, “Reading Thomas Jefferson with TopicViz: Towards a Thematic Method for Exploring Large Cultural Archives,” Scholarly and Research Communications 4, no. 3 (2013),http://src-online.ca/index.php/src/article/view/121/259
 
-**September 21—Digital History and Digital Archives (Micki Kaufman)**
+###September 21—Digital History and Digital Archives (Micki Kaufman)
 
 * Blevens, Cameron. “Digital History’s Perpetual Future Tense.” Debates in DH 2016. 308-324.
 
@@ -264,16 +258,9 @@ http://miriamposner.com/blog/how-did-they-make-that/#gallery
 
 * Steve Brier and Joshua Brown, “The September 11 Digital Archive. Radical History Review. Issue 111 (Fall 2011). [PDF]
 
-* Guildi, Jo, and David Armitage. The History Manifesto.
+* Guildi, Jo, and David Armitage. The History Manifesto. http://historymanifesto.cambridge.org/files/9814/2788/1923/historymanifesto_5Feb2015.pdf
 
-* http://historymanifesto.cambridge.org/files/9814/2788/1923/historymanifesto_5Feb2015.
-
-pdf
-
-* Cohen, Daniel and Roy Rosenzweig. “Owning the Past: Copyright and the Online Historian.”
-
-* Digital History http://chnm.gmu.edu/digitalhistory/copyright/2.php
-
+* Cohen, Daniel and Roy Rosenzweig. “Owning the Past: Copyright and the Online Historian.” Digital History http://chnm.gmu.edu/digitalhistory/copyright/2.php
 
 
 **Suggested:**
@@ -283,21 +270,18 @@ pdf
 * “Beyond the Historical Profession: The Historian’s Craft, Popular Memory, and the Wikipedia.”
 
 
-
 **Projects to explore:**
 
 * Quantifying Kissinger: http://blog.quantifyingkissinger.com/
 
-* “Jane, John… Leslie? A Historical Method for Algorithmic Gender Prediction.” Cameron Blevens and Lincoln Mullen
-
-* http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html
+* “Jane, John… Leslie? A Historical Method for Algorithmic Gender Prediction.” Cameron Blevens and Lincoln Mullen http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html
 
 * Lincoln Mullen http://jsreligion.org/issues/vol17/mullen.html
 
 * Paper Machines http://papermachines.org/
 
 
-**September 28—Digital Literary Studies (Editions) – (Matt Gold)**
+###September 28—Digital Literary Studies (Editions) – (Matt Gold)
 
 * Price, Kenneth and Ray Siemens. “Introduction” Literary Studies in the Digital Age https://dlsanthology.commons.mla.org/introduction/ : DOI: 10.1632/lsda.2013.1
 
@@ -318,13 +302,9 @@ pdf
 
 **Projects to explore:**
 
-* Miriam Posner’s How Did They Make That: Scholarly Editions:
+* Miriam Posner’s How Did They Make That: Scholarly Editions: http://miriamposner.com/blog/how-did-they-make-that/ - edition
 
-http://miriamposner.com/blog/how-did-they-make-that/ - edition
-
-* Digital Thoreau (including both the Fluid-Text Edition and The Reader's Thoreau) -
-
-http://digitalthoreau.org/
+* Digital Thoreau (including both the Fluid-Text Edition and The Reader's Thoreau) - http://digitalthoreau.org/
 
 * Women Writers Project : http://www.wwp.northeastern.edu/research/publications/
 
@@ -362,10 +342,7 @@ http://digitalthoreau.org/
 
 * Shlomo Argamon et al., “Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters,” Digital Humanities Quarterly, 3:2 (2009),http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html.
 
-* “Forum: Text Analyses at Scale.” Debates in DH 2016: Ted Underwood, Tanya Clement, Lisa Rhody, Tressie McMillan Cottom, Benjamin M Schmidt, Johanna Swafford, Alan Liu.
-
-525-568 http://dhdebates.gc.cuny.edu/debates/part/8
-
+* “Forum: Text Analyses at Scale.” Debates in DH 2016: Ted Underwood, Tanya Clement, Lisa Rhody, Tressie McMillan Cottom, Benjamin M Schmidt, Johanna Swafford, Alan Liu. 525-568 http://dhdebates.gc.cuny.edu/debates/part/8
 
 
 **Projects to explore:**
@@ -396,15 +373,12 @@ https://annieswafford.wordpress.com/2015/03/30/why-syuzhet-doesnt-work-and-how-w
 
 * https://storify.com/clancynewyork/a-fabula-of-syuzhet-ii
 
-
-
 * Matthew L. Jockers, sections 1 Revolution and 2 Evidence from Part I of Macroanalysis: Digital Methods and Literary History (PDF by request)
 
 
+###October 12—No Class, Columbus Day Holiday**
 
-**October 12—No Class, Columbus Day Holiday**
-
-**October 19—Maker Space Humanities and Accessibility (Joshua Miele)**
+###October 19—Maker Space Humanities and Accessibility -- (Mary Catherine Kinniburgh GC Makerspace)
 
 * Hensler, Christine and John Rieffel. “The Maker Movement and the Humanities: Giving Students A Larger Toolbox.” http://www.huffingtonpost.com/christine-henseler/the-maker-movement-and-th_b_6349514.html
 
@@ -432,7 +406,7 @@ https://annieswafford.wordpress.com/2015/03/30/why-syuzhet-doesnt-work-and-how-w
 
 * Maker Faire NYC: http://makerfaire.com/new-york/ [Note: the World Maker Faire takes place from October 1-2, 2016 at the New York Hall of Science 47-01 111th St, Corona, NY 11368.]
 
-**October 26— Geospatial Humanities – (Michelle McSweeney)**
+###October 26— Geospatial Humanities – (Michelle McSweeney)
  
 * Todd Presner, et. al. selections from HyperCities: Thick Mapping in the Digital Humanities. Cambridge, Mass.: Harvard University Press, 2014. (PDF)
 Hypercities book website http://thebook.hypercities.com/ 
@@ -456,12 +430,9 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * Using Metadata and Maps to Teach the History of Religion by Lincoln Mullen http://lincolnmullen.com/downloads/pdf/mullen.using-metadata-and-maps.preprint.pdf 
 
-**November 2— (Kathleen Fitzpatrick)**
+###November 2— (Kathleen Fitzpatrick) The Future of Digital Scholarship and Scholarly Communication
 
-* The Future of Digital Scholarship and Scholarly Communication
-Kathleen Fitzpatrick, Planned Obsolescence
-
-
+*Kathleen Fitzpatrick, Planned Obsolescence
 
 *Suggested:*
 
@@ -470,8 +441,7 @@ Kathleen Fitzpatrick, Planned Obsolescence
 * Scan the CLIR report “Building Expertise to Support Digital Scholarship: A Global Perspective” https://www.clir.org/pubs/reports/pub168/pub168 by Vivian Lewis, Lisa Spiro, Xuemao Wang, and Jon E. Cawthone
 
 
-
-**November 9— Libraries in a Digital Age: Access, Preservation, and Experimentation (tentative visit from Shana Kimball from NYPL)**
+###November 9— Libraries in a Digital Age: Access, Preservation, and Experimentation (tentative visit from Shana Kimball from NYPL)
 
 **Data Project Due**
 
@@ -494,7 +464,7 @@ Kathleen Fitzpatrick, Planned Obsolescence
 * Code 4 Lib http://code4lib.org/
 
 
-**November 16—Data Visualization (Chris Alen Sula)**
+###November 16—Data Visualization (Chris Alen Sula)
 
 * Sula, Chris Alen. “Quantifying Culture: Four Types of Value in Visualization.” Electronic Visualization in Arts and Culture. Eds. J.P. Bowen et al. London: Springer-Verlag, 2013 [PDF]
 
@@ -525,7 +495,6 @@ Kathleen Fitzpatrick, Planned Obsolescence
 (You may wish to revisit The Syuzhet Affair from October 5 and the trouble with the Fourier transformation and resulting plot graphs.)
 
 
-
 *Visualization tools to experiment with:*
 
 * Voyant: https://voyant-tools.org/
@@ -539,8 +508,7 @@ Kathleen Fitzpatrick, Planned Obsolescence
 * Gephi, http://gephi.github.io
 
 
-
-**November 23— Digital Project Design**
+###November 23— Digital Project Design
 
 * Kissane, Erin. The Elements of Content Strategy. A Book Apart. (selections) The Data Revolution (excerpt) Rob Kitchin [PDF]
 
@@ -555,7 +523,7 @@ Kathleen Fitzpatrick, Planned Obsolescence
 * Digital Project Lab: https://github.com/GCDigitalFellows/ProjectLab/blob/master/1Ideas.md
 
 
-**November 30—Defining, Critiquing, and Practicing DH**
+###November 30—Defining, Critiquing, and Practicing DH
 
 * In Debates in the Digital Humanities: 2012 Edition: Part II: “Theorizing the Digital Humanities” and Part III: “Critiquing the Digital Humanities” and in the 2016 Edition: “Digital Humanities and its Critics”
 
@@ -568,9 +536,9 @@ Kathleen Fitzpatrick, Planned Obsolescence
 
 * Luke Waltzer, “Digital Humanities and the “Ugly Stepchildren” of American Higher Education”
 
-**December 7—Final Presentations**
+###December 7—Final Presentations
 
-**December 21 – Final Projects Due**
+###December 21 – Final Projects Due
 
 
 
