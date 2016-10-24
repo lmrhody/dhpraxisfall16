@@ -435,8 +435,9 @@ https://annieswafford.wordpress.com/2015/03/30/why-syuzhet-doesnt-work-and-how-w
 **October 26— Geospatial Humanities – (Michelle McSweeney)**
  
 * Todd Presner, et. al. selections from HyperCities: Thick Mapping in the Digital Humanities. Cambridge, Mass.: Harvard University Press, 2014. (PDF)
+Hypercities book website http://thebook.hypercities.com/ 
 
-* Hypercities book website http://thebook.hypercities.com/ Atlas of the Historical Geography of the United States
+* Atlas of the Historical Geography of the United States
 Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * In David J. Bodenhamer, John Corrigan, and Trevor M. Harris, eds, The Spatial Humanities: Introduction (PDF), "Challenges for the Spatial Humanities" (PDF)
@@ -447,11 +448,9 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 **Projects to Review:**
 
-* Miriam Posner’s “How Did They Make That: A Mapping Project”
+* Miriam Posner’s “How Did They Make That: A Mapping Project” http://miriamposner.com/blog/how-did-they-make-that/#map
 
-* http://miriamposner.com/blog/how-did-they-make-that/#map
-
-* Suggested further reading:
+*Suggested further reading:*
 
 * Simon Mahony and Elena Pierazzo, "Teaching Skills or Teaching Methodology?”
 
@@ -459,7 +458,8 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 **November 2— (Kathleen Fitzpatrick)**
 
-* The Future of Digital Scholarship and Scholarly CommunicationKathleen Fitzpatrick, Planned Obsolescence
+* The Future of Digital Scholarship and Scholarly Communication
+Kathleen Fitzpatrick, Planned Obsolescence
 
 
 
@@ -563,7 +563,8 @@ Chapter 1 and 2 of Mark Monmonier, How to Lie with Maps (PDF)
 
 * Stephen Brier, "Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities”
 
-* Project to explore: Around DH in 80 Days project, 2014*
+*Project to explore:* 
+*Around DH in 80 Days project, 2014
 
 * Luke Waltzer, “Digital Humanities and the “Ugly Stepchildren” of American Higher Education”
 
