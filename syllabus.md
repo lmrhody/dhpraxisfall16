@@ -1,16 +1,16 @@
-##Digital Praxis Seminar <br />
+## Digital Praxis Seminar <br />
 Fall 2016 <br />
 MALS75400/IDS 81640 <br />
 CUNY Graduate Center <br />
 Wednesdays 4:15 pm – 6:15 pm – Room 6496 <br />
 
 
-**Dr. Stephen Brier 
+** Dr. Stephen Brier 
 sbrier@gc.cuny.edu
 http://commons.gc.cuny.edu/members/sbrier
 @stevebrier
 
-**Dr. Lisa Rhody
+** Dr. Lisa Rhody
 lrhody@gc.cuny.edu
 http://lisarhody.com
 @lmrhody * Office Hours: Room 3300.07 W 3-4 PM and by appointment
@@ -25,7 +25,7 @@ Course Hashtag: #dhpraxis16
 
 
 
-###DH Praxis Seminar Overview
+### DH Praxis Seminar Overview
 
 Aiming to ensure that new students begin thinking about digital scholarship and teaching from the moment they enter the Graduate Center, this year-long sequence of two three-credit courses introduces students to the landscape of digital humanities tools and methods through readings and classroom and online discussions, lectures offered by prominent scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored both the general field and a particular area of digital scholarship and/or digital pedagogy of interest to them, produced a digital project in collaboration with fellow students, and established a digital portfolio that can be used to display their work.
 
@@ -37,41 +37,41 @@ The Fall 2016 class will be co-taught by Professor Stephen Brier and Lisa Rhody,
 
 
 
-###Fall 2016: Digital Praxis Seminar
+### Fall 2016: Digital Praxis Seminar
 
 The Fall semester will introduce students to a broad range of ways of thinking about their research and teaching using digital tools and methods. Emphasis will be placed on the interdisciplinary of, and conversations related to, digital scholarship. Invited speakers, all prominent digital humanists, will each join the class to discuss readings and to offer workshops.
 
 
-###Learning Objectives:
+### Learning Objectives:
 
-Students will become acquainted with the current landscape of digital academic work.
+- Students will become acquainted with the current landscape of digital academic work.
 
-Students will create a social media presence and begin to prepare their own digital portfolios.
+- Students will create a social media presence and begin to prepare their own digital portfolios.
 
-Students will create a proposal for a digital project for possible development in the Spring.
+- Students will create a proposal for a digital project for possible development in the Spring.
 
-Students will become familiar with the resources available at the Graduate Center to support work on digital teaching and research projects.
-
-
-
-###Requirements and Structure:
+- Students will become familiar with the resources available at the Graduate Center to support work on digital teaching and research projects.
 
 
-####Weekly Class Sessions and blogging
+
+### Requirements and Structure:
+
+
+#### Weekly Class Sessions and blogging
 
 **Weekly readings in advance of class sessions and public presentations**
 
 Students are responsible for writing six blog posts on our shared course blog. These should be posted by Sunday night so that peers have time to read and to respond by Wednesday’s class. The six posts should include
 
-* Two about our weekly readings or in-class discussions
+- Two about our weekly readings or in-class discussions
 
-* One about volunteering as an editor-at-large for DHNow or at JITP
+- One about volunteering as an editor-at-large for DHNow or at JITP
 
-* One about a workshop
+- One about a workshop
 
-* One about their data project, and
+- One about their data project, and
 
-* One about their final project.
+- One about their final project.
 
 Students who are not writing blog posts on a given week should comment and respond to the posts of other students.
 
@@ -79,19 +79,19 @@ Students are encouraged to live-tweet their responses to readings, workshops, cl
 
 
 
-####Workshops
+#### Workshops
 
 We will be offering skills workshops throughout the semester. Students are responsible for attending a minimum of three workshops over the course of the semester, but you are welcome to attend as many as you like depending on space limitations. Students should write one blog post either describing how one of the workshops they attended would be especially useful to a particular undergraduate class in their discipline OR how the skill they learned could be useful in addressing a particular scholarly question.
 
 
 
-####Workshop Schedule: Forthcoming
+#### Workshop Schedule: Forthcoming
 
 
 
-####Data Project
+#### Data Project
 
-Students will identify a dataset of interest and explore it before the end of the semester using a digital tool such as MALLET, Gephi, R, Voyant, Juxta, ImagePlot, the Natural Language Toolkit, Omeka, QGIS, Leaflet, TEI/XML, among others (many more tools can be found in the (http://dirtdirectory.org "Dirt Directory"). Early in the semester, students will write one blog post linking to their dataset, explaining why they selected it, noting what data points they included and excluded and why, and describing how they cleaned or prepared the data for analysis. Near the end of the semester, students will write a second blog post describing the results of their 2
+Students will identify a dataset of interest and explore it before the end of the semester using a digital tool such as MALLET, Gephi, R, Voyant, Juxta, ImagePlot, the Natural Language Toolkit, Omeka, QGIS, Leaflet, TEI/XML, among others (many more tools can be found in the [Dirt Directory](http://dirtdirectory.org). Early in the semester, students will write one blog post linking to their dataset, explaining why they selected it, noting what data points they included and excluded and why, and describing how they cleaned or prepared the data for analysis. Near the end of the semester, students will write a second blog post describing the results of their 2
 
 experiments with their digital tool, focusing in particular on the strengths and limitations of the tool or methodology they use. Projects will be evaluated based on how well they identify a dataset that is well-scoped and well-formed enough to address a specific humanities question and articulate the challenges, biases, and opportunities that the dataset presents to their research project.
 
